@@ -1,0 +1,2 @@
+# GhostFX
+a proxy good
